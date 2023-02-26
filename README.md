@@ -1,2 +1,5 @@
 # ChatGPT-Siri
-Using ChatGPT with Siri for chatting, learning languages, asking questions, and more. 通过 Siri 使用 ChatGPT 聊天，学习语言，问问题等。
+[简体中文](README-zh_CN.md)
+
+Note: The ChatGPT API is not yet available, and can only be accessed via the web. I have applied for the ChatGPT API, but am currently in queue. In the meantime, GPT-3 API is being used here, and will be replaced with the ChatGPT API once it becomes available.
+
