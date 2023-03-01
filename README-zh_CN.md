@@ -12,7 +12,7 @@
 - [English Version]()
 # API key
 
-通过 Siri 访问 GPT-3 API，必须要有 OpenAI API key。你可以到 OpenAI 官网获取，获取 API key 的步骤：
+使用「快捷指令」调用 GPT-3 API，必须要有 OpenAI API key。你可以到 OpenAI 官网获取，获取 API key 的步骤：
 
 1. 到 https://platform.openai.com 注册账号并登陆
 2. 点击右上角头像，选择 “View API keys”
