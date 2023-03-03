@@ -20,7 +20,7 @@ To use the "shortcut" to call the ChatGPT API, an OpenAI API key is required. Yo
 4. Copy the API key for backup. Note that the API key only appears once. If you forgot it, regenerate a new
 
 
-> Note: There is a fee to use the API, the price is $0.0020 / 1K tokens, 1k tokens is approximately equal to 750 words, or 500 Chinese characters. New users of OpenAI will have a credit of ¥18 for use. Therefore, it is best not to share the API key with others. If the API key is leaked, you can delete it in the OpenAI background and generate a new one.
+> Note: There is a fee to use the API, the price is $0.0020 / 1K tokens, 1k tokens is approximately equal to 750 words, or 500 Chinese characters. New users of OpenAI will have a credit of $18 to be used during your first 3 months. Therefore, it is best not to share the API key with others. If the API key is leaked, you can delete it in the OpenAI background and generate a new one.
 
 # Edit shortcut to replace API key
 
