@@ -8,8 +8,18 @@ Start the "Shortcut" through Siri to connect to the ChatGPT API, turning Siri in
 
 Click the link below to download shortcuts
 
+## ChatGPT Siri 1.0
+
 - [简体中文版](https://www.icloud.com/shortcuts/620e11d10bc4419497c0fd323e3fe8f1)
 - [English Version](https://www.icloud.com/shortcuts/4535286f97384f839439a865faacb9d2)
+
+## ChatGPT Siri 1.1
+
+New feature: support for automatically saving chat records to the "Notes" app
+
+- [简体中文版](https://www.icloud.com/shortcuts/b7c3c9939c2c43598caa1efcb3dad954)
+- [English Version](https://www.icloud.com/shortcuts/e288497f0de742fdb076195afd3bef86)
+
 # API key acquisition
 
 To use the "shortcut" to call the ChatGPT API, an OpenAI API key is required. You can go to the OpenAI official website to get it for free, the steps are as follows:

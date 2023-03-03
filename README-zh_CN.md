@@ -6,8 +6,18 @@
 
 点击下面链接下载快捷指令
 
+## 智能聊天 1.0
+
 - [简体中文版](https://www.icloud.com/shortcuts/620e11d10bc4419497c0fd323e3fe8f1)
 - [English Version](https://www.icloud.com/shortcuts/4535286f97384f839439a865faacb9d2)
+
+## 智能聊天 1.1
+
+新功能：支持自动保存聊天记录到「备忘录」app
+
+- [简体中文版](https://www.icloud.com/shortcuts/b7c3c9939c2c43598caa1efcb3dad954)
+- [English Version](https://www.icloud.com/shortcuts/e288497f0de742fdb076195afd3bef86)
+
 # API key 获取
 
 使用「快捷指令」调用 ChatGPT API，必须要有 OpenAI API key。你可以到 OpenAI 官网免费获取，步骤如下：
