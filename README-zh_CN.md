@@ -26,6 +26,8 @@
 
 ![img](img/replace-api-key-cn.png)
 
+> 注意：国内已经不能访问 api 了，需要开代理！
+
 # 使用方法
 
 用 Siri 启动「快捷指令」，直接说 “嘿，Siri，智能聊天”，然后就可以开始和 Siri 聊天了，我们的 Siri 变得非常智能，enjoy！🎉
