@@ -36,7 +36,7 @@
 
 ![img](img/replace-api-key-cn.png)
 
-> 注意：国内已经不能访问 api 了，需要开代理！
+> 注意：国内已经不能访问 api 了，需要开代理！查看「连接问题」「找不到key」：https://github.com/Yue-Yang/ChatGPT-Siri/issues/1
 
 # 使用方法
 
