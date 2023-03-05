@@ -13,12 +13,19 @@ Click the link below to download shortcuts
 - [简体中文版](https://www.icloud.com/shortcuts/620e11d10bc4419497c0fd323e3fe8f1)
 - [English Version](https://www.icloud.com/shortcuts/4535286f97384f839439a865faacb9d2)
 
-## ChatGPT Siri 1.1
+## ChatGPT Siri 1.1 (It is recommended to install version 1.2 to save to a file more conveniently)
 
 New feature: support for automatically saving chat records to the "Notes" app
 
 - [简体中文版](https://www.icloud.com/shortcuts/b7c3c9939c2c43598caa1efcb3dad954)
 - [English Version](https://www.icloud.com/shortcuts/e288497f0de742fdb076195afd3bef86)
+
+## ChatGPT Siri 1.2
+
+New feature: automatically save chat data to a txt file, the record includes the sending and receiving time of each conversation, tokens consumption statistics, open the "Files" app, find the path: iCloud Drive/Shortcuts/ChatGPT-log to view the chat files, Supports iCloud sync.
+
+- [简体中文版](https://www.icloud.com/shortcuts/00838176f7f342008d5a921e8450a98d)
+- [English Version](https://www.icloud.com/shortcuts/dfa38b2abb58470380086dc4b5d50143)
 
 # API key acquisition
 
@@ -30,7 +37,7 @@ To use the "shortcut" to call the ChatGPT API, an OpenAI API key is required. Yo
 4. Copy the API key for backup. Note that the API key only appears once. If you forgot it, regenerate a new
 
 
-> Note: There is a fee to use the API, the price is $0.0020 / 1K tokens, 1k tokens is approximately equal to 750 words, or 500 Chinese characters. New users of OpenAI will have a credit of $18 to be used during your first 3 months. Therefore, it is best not to share the API key with others. If the API key is leaked, you can delete it in the OpenAI background and generate a new one.
+> Note: There is a fee to use the API, the price is $0.0020 / 1K tokens, 1k tokens is approximately equal to 750 words, or 500 Chinese characters. New users of OpenAI will have a credit of $5 to be used during your first 3 months. Therefore, it is best not to share the API key with others. If the API key is leaked, you can delete it in the OpenAI background and generate a new one.
 
 # Edit shortcut to replace API key
 

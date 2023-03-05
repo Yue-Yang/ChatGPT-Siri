@@ -11,12 +11,22 @@
 - [简体中文版](https://www.icloud.com/shortcuts/620e11d10bc4419497c0fd323e3fe8f1)
 - [English Version](https://www.icloud.com/shortcuts/4535286f97384f839439a865faacb9d2)
 
-## 智能聊天 1.1
+## 智能聊天 1.1 （推荐安装1.2版本保存到文件更方便）
 
 新功能：支持自动保存聊天记录到「备忘录」app
 
 - [简体中文版](https://www.icloud.com/shortcuts/b7c3c9939c2c43598caa1efcb3dad954)
 - [English Version](https://www.icloud.com/shortcuts/e288497f0de742fdb076195afd3bef86)
+
+## 智能聊天 1.2
+
+新功能：自动保存聊天数据到 txt 文件中，记录包含每次对话的发送和接收时间、tokens 消耗统计，打开「文件」app，找到：iCloud 云盘/Shortcuts/ChatGPT-log 目录即可查看，支持 iCloud 同步。
+
+- [简体中文版](https://www.icloud.com/shortcuts/00838176f7f342008d5a921e8450a98d)
+- [English Version](https://www.icloud.com/shortcuts/dfa38b2abb58470380086dc4b5d50143)
+
+# 微信群交流
+![img](img/wx-group.jpg)
 
 # API key 获取
 
@@ -28,7 +38,7 @@
 4. 复制 API key，备用。注意 API key 只出现一次。忘了只能重新生成一个新的
 
 
-> 注意：使用 API 需要付费，价格为 $0.0020 / 1K tokens，1k tokens 大约等于 750 个单词，或者 500 个汉字。OpenAI 新用户在头三个月会有 $18 美元免费额度供使用。因此最好不要把 API key 和其他人共享，如果 API key 泄露，可以到 OpenAI 后台删掉，重新生成一个新的。
+> 注意：使用 API 需要付费，价格为 $0.0020 / 1K tokens，1k tokens 大约等于 750 个单词，或者 500 个汉字。OpenAI 新用户在头三个月会有 $5 美元免费额度供使用。因此最好不要把 API key 和其他人共享，如果 API key 泄露，可以到 OpenAI 后台删掉，重新生成一个新的。
 
 # 编辑「快捷指令」替换 API key
 
