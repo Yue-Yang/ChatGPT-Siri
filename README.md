@@ -43,7 +43,7 @@ To use the "shortcut" to call the ChatGPT API, an OpenAI API key is required. Yo
 
 Open the "Shortcuts" app, find the downloaded "ChatGPT" shortcut, press and hold to select "Edit", and paste the above API key into the text box below.
 
-![img](img/replace-api-key.png)
+<img src="img/replace-api-key.png" width="500"/>
 
 # How to use
 
@@ -69,7 +69,7 @@ You can also customize system message, which help set the behavior of the assist
 
 Modify method, edit the "shortcut", slide down, and find the position as shown in the figure:
 
-![img](img/system-message.png)
+<img src="img/system-message.png" width="500"/>
 
 For example, you can replace system message with the following:
 
