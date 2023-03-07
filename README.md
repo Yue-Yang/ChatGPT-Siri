@@ -53,7 +53,9 @@ To use the "shortcut" to call the ChatGPT API, an OpenAI API key is required. Yo
 
 Open the "Shortcuts" app, find the downloaded "ChatGPT" shortcut, press and hold to select "Edit", and paste the above API key into the text box below.
 
-<img src="img/replace-api-key.png" width="500"/>
+<div align="center">
+<img height="320" src="img/replace-api-key.png" />
+</div>
 
 # How to use
 
@@ -76,15 +78,15 @@ This shortcut supports iPhone, iPad and Mac, supports continuous conversations, 
 - Rename and choose icon | Welcome and continue hints.
 
 <div align="center">
-<img height="320" src="img/IMG_rename-icon.png" />
-<img height="320" src="img/IMG_welcome-continue.png" />
+<img height="520" src="img/IMG_rename-icon.png" />
+<img height="520" src="img/IMG_welcome-continue.png" />
 </div>
 
 - Quit chat command, quit chat hint ｜ new chat command, new chat welcome hint
 
 <div align="center">
-<img height="320" src="img/IMG_quit-chat.png" />
-<img height="320" src="img/IMG_new-chat.png" />
+<img height="520" src="img/IMG_quit-chat.png" />
+<img height="520" src="img/IMG_new-chat.png" />
 </div>
 
 ## Customize system message
@@ -96,7 +98,7 @@ You can also customize system message, which help set the behavior of the assist
 Modify method, edit the "shortcut", slide down, and find the position as shown in the figure:
 
 <div align="center">
-<img height="320" src="img/IMG_system-message.png" />
+<img height="520" src="img/IMG_system-message.png" />
 </div>
 
 For example, you can replace system message with the following:

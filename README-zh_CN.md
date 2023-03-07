@@ -78,15 +78,15 @@
 - 修改名字、图标 ｜ 欢迎、继续提示 
 
 <div align="center">
-<img height="320" src="img/IMG_rename-icon-cn.png" />
-<img height="320" src="img/IMG_welcome-continue-cn.png" />
+<img height="520" src="img/IMG_rename-icon-cn.png" />
+<img height="520" src="img/IMG_welcome-continue-cn.png" />
 </div>
 
 - 退出聊天命令、退出提示 ｜ 新聊天命令、新聊天欢迎
 
 <div align="center">
-<img height="320" src="img/IMG_quit-chat-cn.png" />
-<img height="320" src="img/IMG_new-chat-cn.png" />
+<img height="520" src="img/IMG_quit-chat-cn.png" />
+<img height="520" src="img/IMG_new-chat-cn.png" />
 </div>
 
 ## 自定义系统消息
@@ -98,7 +98,7 @@
 修改方法，编辑「快捷指令」，往下滑，找到如图所示位置：
 
 <div align="center">
-<img height="320" src="img/IMG_system-message-cn.png" />
+<img height="520" src="img/IMG_system-message-cn.png" />
 </div>
 
 比如，你可以用下面的内容替换系统消息：
@@ -112,14 +112,14 @@
 # 微信群交流
 
 <div align="center">
-<img height="320" src="img/wx-group2.jpg" />
+<img height="400" src="img/wx-group2.jpg" />
 </div>
 
 # 觉得好用可以请作者喝奶茶呀🥤
 
 <div align="center">
-<img height="240" src="img/support-wx.jpg" />
-<img height="240" src="img/support-alipay.jpg" />
+<img height="300" src="img/support-wx.jpg" />
+<img height="300" src="img/support-alipay.jpg" />
 </div>
 
 👉 [🔋爱发电首页](https://afdian.net/a/YueYangDev)
