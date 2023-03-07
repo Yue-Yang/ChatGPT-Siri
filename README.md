@@ -71,6 +71,22 @@ This shortcut supports iPhone, iPad and Mac, supports continuous conversations, 
 - If you want to start a new chat, say "New chat" when it's our turn, Siri will start a new round of chat, which means that the previous context will be lost, and you can't continue chatting with the previous information.
 - If you want to quit ChatGPT to use the system's Siri, you can say "Quit chat" on your turn. Of course, you can also close Siri directly and open it again. But here it is more natural to provide the command to exit.
 
+## Customize name, icon and hint messages.
+
+- Rename and choose icon | Welcome and continue hints.
+
+<div align="center">
+<img height="320" src="img/IMG_rename-icon.png" />
+<img height="320" src="img/IMG_welcome-continue.png" />
+</div>
+
+- Quit chat command, quit chat hint ｜ new chat command, new chat welcome hint
+
+<div align="center">
+<img height="320" src="img/IMG_quit-chat.png" />
+<img height="320" src="img/IMG_new-chat.png" />
+</div>
+
 ## Customize system message
 
 You can also customize system message, which help set the behavior of the assistant. In this "shortcut" system message is one of the default system messages of ChatGPT used:
@@ -79,7 +95,9 @@ You can also customize system message, which help set the behavior of the assist
 
 Modify method, edit the "shortcut", slide down, and find the position as shown in the figure:
 
-<img src="img/system-message.png" width="500"/>
+<div align="center">
+<img height="320" src="img/IMG_system-message.png" />
+</div>
 
 For example, you can replace system message with the following:
 

@@ -35,12 +35,6 @@
 - [简体中文版](https://www.icloud.com/shortcuts/00838176f7f342008d5a921e8450a98d)
 - [English Version](https://www.icloud.com/shortcuts/dfa38b2abb58470380086dc4b5d50143)
 
-# 微信群交流
-
-<img src="img/wx-group2.jpg" width="300"/>
-
-# 支持我 👉 [🔋爱发电首页](https://afdian.net/a/YueYangDev)
-
 # API key 获取
 
 使用「快捷指令」调用 ChatGPT API，必须要有 OpenAI API key。你可以到 OpenAI 官网免费获取，步骤如下：
@@ -57,7 +51,9 @@
 
 打开「快捷指令」app，找到下载的「智能聊天」快捷指令，长按选择「编辑」，将上面的 API key 粘贴到下面文本框中。
 
-<img src="img/replace-api-key-cn.png" width="500"/>
+<div align="center">
+<img height="320" src="img/replace-api-key-cn.png" />
+</div>
 
 > 注意：国内已经不能访问 api 了，需要开代理！查看「连接问题」「找不到key」：https://github.com/Yue-Yang/ChatGPT-Siri/issues/1
 
@@ -77,6 +73,22 @@
 - 如果你想开启新聊天，在我们输入时说 “新聊天”，Siri 会开启新一轮聊天，这意味着前面的上下文将丢失，不能接着前面的信息继续聊
 - 如果想退出智能聊天以使用系统的 Siri，你可以在自己轮，说 “退出聊天”。当然你也可以直接关闭 Siri，重新在打开。但这里提供命令退出，更自然
 
+## 自定义名字、图标及提示信息
+
+- 修改名字、图标 ｜ 欢迎、继续提示 
+
+<div align="center">
+<img height="320" src="img/IMG_rename-icon-cn.png" />
+<img height="320" src="img/IMG_welcome-continue-cn.png" />
+</div>
+
+- 退出聊天命令、退出提示 ｜ 新聊天命令、新聊天欢迎
+
+<div align="center">
+<img height="320" src="img/IMG_quit-chat-cn.png" />
+<img height="320" src="img/IMG_new-chat-cn.png" />
+</div>
+
 ## 自定义系统消息
 
 你也可以自定义系统消息，系统消息有助于设置助手的行为。在本「快捷指令」系统消息是使用的 ChatGPT 的默认系统消息之一：
@@ -85,7 +97,9 @@
 
 修改方法，编辑「快捷指令」，往下滑，找到如图所示位置：
 
-<img src="img/system-message-cn.png" width="500"/>
+<div align="center">
+<img height="320" src="img/IMG_system-message-cn.png" />
+</div>
 
 比如，你可以用下面的内容替换系统消息：
 
@@ -94,3 +108,18 @@
 当然你也可以自己写，比如让他做段子手、当作家、当厨师等等，有无穷的玩法。你也可以到网络上找别人写的 Prompt，稍加修改填入这里。这里建议分别复制一份「快捷指令」，然后起一个名字，比如当翻译的快捷指令就叫「翻译家」，这样你直接说 “嘿，Siri，翻译家”，就启动一个专门翻译的 ChatGPT 了。
 
 你当然也可以在通用的那个「快捷指令」里面，在自己轮输入时直接说一遍，让他帮你当翻译。但是不如上面那个专门修改了系统消息为翻译的「快捷指令」更方便，这个「翻译家」直接就可以工作了，非常 nice！这也是 Prompt 的意义，可以先自定义一个场景，然后更高效使用 ChatGPT。所以现在网上各种 Prompt 的教程。我们可以举一反三，让 ChatGPT 更好为我们服务！
+
+# 微信群交流
+
+<div align="center">
+<img height="320" src="img/wx-group2.jpg" />
+</div>
+
+# 觉得好用可以请作者喝奶茶呀🥤
+
+<div align="center">
+<img height="240" src="img/support-wx.jpg" />
+<img height="240" src="img/support-alipay.jpg" />
+</div>
+
+👉 [🔋爱发电首页](https://afdian.net/a/YueYangDev)
