@@ -1,6 +1,6 @@
 # 🤖️ ChatGPT Siri
 
-🀄️ [简体中文 ReadMe](README-zh_CN.md)
+# [简体中文文档](README-zh_CN.md)
 
 Start the "Shortcut" through Siri to connect to the ChatGPT API, turning Siri into an AI chat assistant. You can speak your question directly to Siri, and Siri will answer you. Now our Siri has finally become intelligent and can talk to us fluently! And all this can be done with just a Shortcut and an API key.
 
@@ -54,12 +54,14 @@ To use the "shortcut" to call the ChatGPT API, an OpenAI API key is required. Yo
 Open the "Shortcuts" app, find the downloaded "ChatGPT" shortcut, press and hold to select "Edit", and paste the above API key into the text box below.
 
 <div align="center">
-<img height="320" src="img/replace-api-key.png" />
+<img width="500" src="img/replace-api-key.png" />
 </div>
 
 # How to use
 
 Start the "shortcut" with Siri, just say "Hey, Siri, ChatGPT", and then you can start chatting with Siri, our Siri has become very smart, enjoy! 🎉
+
+> update: I recommend you to change the default name because Siri cannot recognize "ChatGPT" accurately.
 
 If you don't like the name, you can rename the shortcut, change it to any name you like, and then you can chat with Siri just say "Hey, Siri, xxx", xxx is the new name you  chose, it's better not to add special symbols to the name. It’s hard to read the symbols 😂, If Siri cannot match the name of the shortcut, it won’t work!
 
@@ -78,15 +80,17 @@ This shortcut supports iPhone, iPad and Mac, supports continuous conversations, 
 - Rename and choose icon | Welcome and continue hints.
 
 <div align="center">
-<img height="520" src="img/IMG_rename-icon.png" />
-<img height="520" src="img/IMG_welcome-continue.png" />
+<img width="200" src="img/IMG_rename-icon.png" />
+<img width="200" src="img/IMG_welcome-continue.png" />
 </div>
+
+---
 
 - Quit chat command, quit chat hint ｜ new chat command, new chat welcome hint
 
 <div align="center">
-<img height="520" src="img/IMG_quit-chat.png" />
-<img height="520" src="img/IMG_new-chat.png" />
+<img width="200" src="img/IMG_quit-chat.png" />
+<img width="200" src="img/IMG_new-chat.png" />
 </div>
 
 ## Customize system message
@@ -98,7 +102,7 @@ You can also customize system message, which help set the behavior of the assist
 Modify method, edit the "shortcut", slide down, and find the position as shown in the figure:
 
 <div align="center">
-<img height="520" src="img/IMG_system-message.png" />
+<img width="240" src="img/IMG_system-message.png" />
 </div>
 
 For example, you can replace system message with the following:

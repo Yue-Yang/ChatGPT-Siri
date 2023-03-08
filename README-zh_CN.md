@@ -35,6 +35,12 @@
 - [简体中文版](https://www.icloud.com/shortcuts/00838176f7f342008d5a921e8450a98d)
 - [English Version](https://www.icloud.com/shortcuts/dfa38b2abb58470380086dc4b5d50143)
 
+# 常见问题
+
+> 注意：国内已经不能访问 api 了，需要开代理！查看「连接问题」「找不到key」：https://github.com/Yue-Yang/ChatGPT-Siri/issues/1
+>
+> 我的测试设备是iOS16。据有用户反应，在低版本iOS上，1.2 版本安装不了，你可以选择低版本安装。
+
 # API key 获取
 
 使用「快捷指令」调用 ChatGPT API，必须要有 OpenAI API key。你可以到 OpenAI 官网免费获取，步骤如下：
@@ -42,20 +48,17 @@
 1. 到 https://platform.openai.com 注册账号并登陆
 2. 点击右上角头像，选择 “View API keys”
 3. 点击页面右侧 “Create new secret key” 按钮生成 API key
-4. 复制 API key，备用。注意 API key 只出现一次。忘了只能重新生成一个新的
+4. 复制 API key，备用。注意 API key 只出现一次。忘了只能重新生成一个新的key。
 
-
-> 注意：使用 API 需要付费，价格为 $0.0020 / 1K tokens，1k tokens 大约等于 750 个单词，或者 500 个汉字。OpenAI 新用户在头三个月会有 $5 美元免费额度供使用。因此最好不要把 API key 和其他人共享，如果 API key 泄露，可以到 OpenAI 后台删掉，重新生成一个新的。
+> 使用 API 需要付费，价格为 $0.0020 / 1K tokens，1k tokens 大约等于 750 个单词，或者 500 个汉字。OpenAI 新用户在头三个月会有 $5 美元免费额度供使用。因此最好不要把 API key 和其他人共享，如果 API key 泄露，可以到 OpenAI 后台删掉，重新生成一个新的。
 
 # 编辑「快捷指令」替换 API key
 
 打开「快捷指令」app，找到下载的「智能聊天」快捷指令，长按选择「编辑」，将上面的 API key 粘贴到下面文本框中。
 
 <div align="center">
-<img height="320" src="img/replace-api-key-cn.png" />
+<img width="500" src="img/replace-api-key-cn.png" />
 </div>
-
-> 注意：国内已经不能访问 api 了，需要开代理！查看「连接问题」「找不到key」：https://github.com/Yue-Yang/ChatGPT-Siri/issues/1
 
 # 使用方法
 
@@ -78,15 +81,17 @@
 - 修改名字、图标 ｜ 欢迎、继续提示 
 
 <div align="center">
-<img height="520" src="img/IMG_rename-icon-cn.png" />
-<img height="520" src="img/IMG_welcome-continue-cn.png" />
+<img width="200" src="img/IMG_rename-icon-cn.png" />
+<img width="200" src="img/IMG_welcome-continue-cn.png" />
 </div>
+
+---
 
 - 退出聊天命令、退出提示 ｜ 新聊天命令、新聊天欢迎
 
 <div align="center">
-<img height="520" src="img/IMG_quit-chat-cn.png" />
-<img height="520" src="img/IMG_new-chat-cn.png" />
+<img width="200" src="img/IMG_quit-chat-cn.png" />
+<img width="200" src="img/IMG_new-chat-cn.png" />
 </div>
 
 ## 自定义系统消息
@@ -98,7 +103,7 @@
 修改方法，编辑「快捷指令」，往下滑，找到如图所示位置：
 
 <div align="center">
-<img height="520" src="img/IMG_system-message-cn.png" />
+<img width="240" src="img/IMG_system-message-cn.png" />
 </div>
 
 比如，你可以用下面的内容替换系统消息：
@@ -112,14 +117,13 @@
 # 微信群交流
 
 <div align="center">
-<img height="400" src="img/wx-group2.jpg" />
+<img width="240" src="img/wx-group2.jpg" />
 </div>
 
-# 觉得好用可以请作者喝奶茶呀🥤
+# 请作者喝一杯奶茶🥤
 
 <div align="center">
-<img height="300" src="img/support-wx.jpg" />
-<img height="300" src="img/support-alipay.jpg" />
+<img width="240" src="img/support-wx-zan.jpg" />
 </div>
 
 👉 [🔋爱发电首页](https://afdian.net/a/YueYangDev)
