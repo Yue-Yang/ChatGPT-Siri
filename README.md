@@ -1,6 +1,6 @@
 # 🤖️ ChatGPT Siri
 
-# [简体中文文档](README-zh_CN.md)
+# 👉 [简体中文文档](README-zh_CN.md)
 
 Start the "Shortcut" through Siri to connect to the ChatGPT API, turning Siri into an AI chat assistant. You can speak your question directly to Siri, and Siri will answer you. Now our Siri has finally become intelligent and can talk to us fluently! And all this can be done with just a Shortcut and an API key.
 
@@ -112,3 +112,17 @@ For example, you can replace system message with the following:
 Of course, you can also write it yourself, such as asking him to be a joker, a writer, a chef, etc. There are endless ways to play. You can also find a prompt written by someone else on the Internet, and fill it in here with a little modification. Here it is recommended to  duplicate the "shortcut" and give the cope one a different name. For example, the shortcut for translation is called "My Translator", so you can just say "Hey, Siri, My Translator", and start a ChatGPT dedicated to translation.
 
 Also you can directly say what you want the ChatGPT to be when it's your turn to say. For example    ask him to help you as a translator. But it’s not as convenient as the “shortcut” above that specifically modifies the system message for translation. That “translator” can work directly, which is very nice! This is also the meaning of Prompt, you can customize the using scene first, and then use ChatGPT more efficiently. This is why there are so many awesome prompt tutorials on the Internet. We can build our own prompt suitable for us and let ChatGPT to be more powerful!
+
+# AI Image
+
+- [简体中文版](https://www.icloud.com/shortcuts/b37ad418e4ec4e6d9846baa7df34e6f9)
+- [English Version](https://www.icloud.com/shortcuts/eda268ebbaa64a23bfadc53f7c13c307)
+
+# Contact
+
+- Discord: <a href="https://discord.gg/r28WhZUtK8" target="_blank">ChatGPT Siri</a>
+- Twitter: <a href="https://twitter.com/YueYangDev" target="_blank">@YueYangDev</a>
+
+# FAQ
+
+👉 <a href="https://github.com/Yue-Yang/ChatGPT-Siri/discussions/30" target="_blank">Questions</a>

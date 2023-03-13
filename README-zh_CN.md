@@ -37,7 +37,7 @@
 
 # 常见问题
 
-> 注意：国内已经不能访问 api 了，需要开代理！查看「连接问题」「找不到key」：https://github.com/Yue-Yang/ChatGPT-Siri/issues/1
+> 注意：国内已经不能访问 api 了，需要开代理！查看「连接问题」「找不到key」：https://github.com/Yue-Yang/ChatGPT-Siri/discussions/29
 >
 > 我的测试设备是iOS16。据有用户反应，在低版本iOS上，1.2 版本安装不了，你可以选择低版本安装。
 
@@ -114,7 +114,17 @@
 
 你当然也可以在通用的那个「快捷指令」里面，在自己轮输入时直接说一遍，让他帮你当翻译。但是不如上面那个专门修改了系统消息为翻译的「快捷指令」更方便，这个「翻译家」直接就可以工作了，非常 nice！这也是 Prompt 的意义，可以先自定义一个场景，然后更高效使用 ChatGPT。所以现在网上各种 Prompt 的教程。我们可以举一反三，让 ChatGPT 更好为我们服务！
 
-# 微信群交流
+# AI 画图
+
+- [简体中文版](https://www.icloud.com/shortcuts/b37ad418e4ec4e6d9846baa7df34e6f9)
+- [English Version](https://www.icloud.com/shortcuts/eda268ebbaa64a23bfadc53f7c13c307)
+
+# 联系
+
+- Discord: <a href="https://discord.gg/r28WhZUtK8" target="_blank">ChatGPT Siri</a>
+- Twitter: <a href="https://twitter.com/YueYangDev" target="_blank">@YueYangDev</a>
+
+## 微信群交流
 
 <div align="center">
 <img width="240" src="img/wx-group3.jpg" />
@@ -126,4 +136,4 @@
 <img width="240" src="img/support-wx-zan.jpg" />
 </div>
 
-👉 [🔋爱发电首页](https://afdian.net/a/YueYangDev)
+# 👉 [🔋爱发电首页](https://afdian.net/a/YueYangDev)
