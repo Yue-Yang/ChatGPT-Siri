@@ -125,8 +125,8 @@
 
 自动保存图片到相册。
 
-- [简体中文版](https://www.icloud.com/shortcuts/6b9d28a66c8a423dab9ee04fd1ad05f5)
-- [English Version](https://www.icloud.com/shortcuts/1d279888c19946b9910c92428a0c9c79)
+- [简体中文版](https://www.icloud.com/shortcuts/82865070e10f4e79a021064518f77ca9)
+- [English Version](https://www.icloud.com/shortcuts/6f8299a858184900b7ab2a4dbf048623)
 
 # 联系
 
