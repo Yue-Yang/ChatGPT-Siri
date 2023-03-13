@@ -116,8 +116,17 @@
 
 # AI 画图
 
+## 1.0
+
 - [简体中文版](https://www.icloud.com/shortcuts/b37ad418e4ec4e6d9846baa7df34e6f9)
 - [English Version](https://www.icloud.com/shortcuts/eda268ebbaa64a23bfadc53f7c13c307)
+
+## 1.1
+
+自动保存图片到相册。
+
+- [简体中文版](https://www.icloud.com/shortcuts/6b9d28a66c8a423dab9ee04fd1ad05f5)
+- [English Version](https://www.icloud.com/shortcuts/1d279888c19946b9910c92428a0c9c79)
 
 # 联系
 
