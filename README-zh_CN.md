@@ -35,6 +35,13 @@
 - [简体中文版](https://www.icloud.com/shortcuts/00838176f7f342008d5a921e8450a98d)
 - [English Version](https://www.icloud.com/shortcuts/dfa38b2abb58470380086dc4b5d50143)
 
+### 智能聊天 1.2.1
+
+功能和1.2相同，另外支持在iPad、iPhone通过共享表单分享文本到快捷指令，Mac上通过快速操作发送文本到快捷指令，以快速启动快捷指令。
+
+- [简体中文版](https://www.icloud.com/shortcuts/592b5aad9b334363b0ee52d8a63f2e72)
+- [English Version](https://www.icloud.com/shortcuts/ed96bcaa8f62475eaf3b5c571606ec32)
+
 # 常见问题
 
 > 注意：国内已经不能访问 api 了，需要开代理！查看「连接问题」「找不到key」：https://github.com/Yue-Yang/ChatGPT-Siri/discussions/29

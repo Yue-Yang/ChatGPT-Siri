@@ -37,6 +37,13 @@ New feature: automatically save chat data to a txt file, the record includes the
 - [简体中文版](https://www.icloud.com/shortcuts/00838176f7f342008d5a921e8450a98d)
 - [English Version](https://www.icloud.com/shortcuts/dfa38b2abb58470380086dc4b5d50143)
 
+### ChatGPT Siri 1.2.1
+
+The function is the same as 1.2, with additional support for sharing text to Shortcuts via Share Sheet on iPad and iPhone, and sending text to Shortcuts through Quick Actions on Mac, for quickly launching Shortcuts.
+
+- [简体中文版](https://www.icloud.com/shortcuts/592b5aad9b334363b0ee52d8a63f2e72)
+- [English Version](https://www.icloud.com/shortcuts/ed96bcaa8f62475eaf3b5c571606ec32)
+
 # API key acquisition
 
 To use the "shortcut" to call the ChatGPT API, an OpenAI API key is required. You can go to the OpenAI official website to get it for free, the steps are as follows:
