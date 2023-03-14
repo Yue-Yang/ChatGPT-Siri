@@ -44,6 +44,13 @@ The function is the same as 1.2, with additional support for sharing text to Sho
 - [简体中文版](https://www.icloud.com/shortcuts/592b5aad9b334363b0ee52d8a63f2e72)
 - [English Version](https://www.icloud.com/shortcuts/ed96bcaa8f62475eaf3b5c571606ec32)
 
+### ChatGPT Siri 1.2.2
+
+The function is the same as 1.2.1, but with a bug fix for new chat.
+
+- [简体中文版](https://www.icloud.com/shortcuts/e79548cd118e45b6a7ad124c891c4ac0)
+- [English Version](https://www.icloud.com/shortcuts/a0e7e6f919de42ce83ffd2af38f653c7)
+
 # API key acquisition
 
 To use the "shortcut" to call the ChatGPT API, an OpenAI API key is required. You can go to the OpenAI official website to get it for free, the steps are as follows:
