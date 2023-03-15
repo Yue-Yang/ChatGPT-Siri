@@ -149,3 +149,7 @@ Automatically save images to the photo album.
 # FAQ
 
 👉 <a href="https://github.com/Yue-Yang/ChatGPT-Siri/discussions/30" target="_blank">Questions</a>
+
+# Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=Yue-Yang/ChatGPT-Siri&type=Date)](https://star-history.com/#Yue-Yang/ChatGPT-Siri&Date)
