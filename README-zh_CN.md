@@ -28,8 +28,10 @@
 
 支持连续聊天，退出聊天，开始新聊天，自定义 API key，自定义 prompt 系统消息，自定义提示语。
 
-新功能：自动保存聊天数据到 txt 文件中，记录包含每次对话的发送和接收时间、tokens 消耗统计，打开「文件」app，找到：iCloud 云盘/Shortcuts/ChatGPT-log 目录即可查看，支持 iCloud 同步。
+新功能：自动保存聊天数据到 txt 文件中，记录包含每次对话的发送和接收时间、tokens 消耗统计。
 
+> 聊天记录保存位置：打开「文件」app，找到：iCloud 云盘/Shortcuts/ChatGPT-log 目录即可查看，支持 iCloud 同步。
+> 
 > 需要打开「设置」- Apple ID - iCloud - iCloud 云盘 功能，才能使用保存到 txt 文件功能。
 
 - [简体中文版](https://www.icloud.com/shortcuts/00838176f7f342008d5a921e8450a98d)
@@ -92,21 +94,13 @@
 
 ## 自定义名字、图标及提示信息
 
-- 修改名字、图标 ｜ 欢迎、继续提示 
+| 修改名字、图标 | 修改欢迎、继续提示 |
+| :-------------: |:-------------:|
+| <img width="200" src="img/IMG_rename-icon-cn.png" /> | <img width="200" src="img/IMG_welcome-continue-cn.png" /> |
 
-<div align="center">
-<img width="200" src="img/IMG_rename-icon-cn.png" />
-<img width="200" src="img/IMG_welcome-continue-cn.png" />
-</div>
-
----
-
-- 退出聊天命令、退出提示 ｜ 新聊天命令、新聊天欢迎
-
-<div align="center">
-<img width="200" src="img/IMG_quit-chat-cn.png" />
-<img width="200" src="img/IMG_new-chat-cn.png" />
-</div>
+| 修改退出聊天命令、退出提示 | 修改新聊天命令、新聊天欢迎 |
+| :-------------: |:-------------:|
+| <img width="200" src="img/IMG_quit-chat-cn.png" /> | <img width="200" src="img/IMG_new-chat-cn.png" /> |
 
 ## 自定义系统消息
 
@@ -160,3 +154,7 @@
 </div>
 
 # 👉 [🔋爱发电首页](https://afdian.net/a/YueYangDev)
+
+# 星标历史记录
+
+[![Star History Chart](https://api.star-history.com/svg?repos=Yue-Yang/ChatGPT-Siri&type=Date)](https://star-history.com/#Yue-Yang/ChatGPT-Siri&Date)

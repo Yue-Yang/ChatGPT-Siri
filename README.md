@@ -30,8 +30,10 @@ New feature: support for automatically saving chat records to the "Notes" app.
 
 Support continuous chatting, exit chatting, start new chatting, customize API key, customize prompt system message, customize hint message.
 
-New feature: automatically save chat data to a txt file, the record includes the sending and receiving time of each conversation, tokens consumption statistics, open the "Files" app, find the path: iCloud Drive/Shortcuts/ChatGPT-log to view the chat files, Supports iCloud sync.
+New feature: automatically save chat data to a txt file, the record includes the sending and receiving time of each conversation, tokens consumption statistics.
 
+> Chat Records path: open the "Files" app, find the path: iCloud Drive/Shortcuts/ChatGPT-log to view the chat files, Supports iCloud sync.
+> 
 > You need to open 'Settings' - Apple ID - iCloud - iCloud Drive function to enable the feature of saving to txt file.
 
 - [简体中文版](https://www.icloud.com/shortcuts/00838176f7f342008d5a921e8450a98d)
@@ -91,21 +93,13 @@ This shortcut supports iPhone, iPad and Mac, supports continuous conversations, 
 
 ## Customize name, icon and hint messages.
 
-- Rename and choose icon | Welcome and continue hints.
+| Rename and choose icon | Welcome and continue hints |
+| :-------------: |:-------------:|
+| <img width="200" src="img/IMG_rename-icon.png" /> | <img width="200" src="img/IMG_welcome-continue.png" /> |
 
-<div align="center">
-<img width="200" src="img/IMG_rename-icon.png" />
-<img width="200" src="img/IMG_welcome-continue.png" />
-</div>
-
----
-
-- Quit chat command, quit chat hint ｜ new chat command, new chat welcome hint
-
-<div align="center">
-<img width="200" src="img/IMG_quit-chat.png" />
-<img width="200" src="img/IMG_new-chat.png" />
-</div>
+| Quit chat command, quit chat hint | new chat command, new chat welcome hint |
+| :-------------: |:-------------:|
+| <img width="200" src="img/IMG_quit-chat.png" /> | <img width="200" src="img/IMG_new-chat.png" /> |
 
 ## Customize system message
 
