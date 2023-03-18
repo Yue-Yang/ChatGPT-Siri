@@ -144,7 +144,7 @@
 ## 微信群交流
 
 <div align="center">
-<img width="240" src="img/wx-group3.jpg" />
+<img width="240" src="img/wx-group4.jpg" />
 </div>
 
 # 请作者喝一杯奶茶🥤
