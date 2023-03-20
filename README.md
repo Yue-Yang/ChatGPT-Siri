@@ -70,8 +70,15 @@ The function is same as 1.2.2, with the following additions:
 <img width="500" src="img/playground-gpt-4.jpg" />
 </div>
 
-- [简体中文版](https://www.icloud.com/shortcuts/900b456d30cb48e2b8423efd455b6457)
-- [English Version](https://www.icloud.com/shortcuts/4bc189c3ec344121991ab9d3c98b5533)
+- [简体中文版](https://www.icloud.com/shortcuts/900b456d30cb48e2b8423efd455b6457) (Not recommended, please download 1.2.4) 
+- [English Version](https://www.icloud.com/shortcuts/4bc189c3ec344121991ab9d3c98b5533) (Not recommended, please download 1.2.4)
+
+### ChatGPT Siri 1.2.4
+
+The function is the same as 1.2.3, with a bug fix for potential issues with chats record directories in different language systems.
+
+- [简体中文版](https://www.icloud.com/shortcuts/f0328cf2683b4b7b99c488866d220115)
+- [English Version](https://www.icloud.com/shortcuts/5590188f4e2541fba4da79b425be6db2)
 
 # API key acquisition
 

@@ -68,8 +68,15 @@
 <img width="500" src="img/playground-gpt-4.jpg" />
 </div>
 
-- [简体中文版](https://www.icloud.com/shortcuts/900b456d30cb48e2b8423efd455b6457)
-- [English Version](https://www.icloud.com/shortcuts/4bc189c3ec344121991ab9d3c98b5533)
+- [简体中文版](https://www.icloud.com/shortcuts/900b456d30cb48e2b8423efd455b6457) (不推荐，请下载1.2.4)
+- [English Version](https://www.icloud.com/shortcuts/4bc189c3ec344121991ab9d3c98b5533) (不推荐，请下载1.2.4)
+
+### 智能聊天 1.2.4
+
+功能和 1.2.3 相同，修复不同语言系统聊天记录目录可能出现 bug。
+
+- [简体中文版](https://www.icloud.com/shortcuts/f0328cf2683b4b7b99c488866d220115)
+- [English Version](https://www.icloud.com/shortcuts/5590188f4e2541fba4da79b425be6db2)
 
 # 常见问题
 
