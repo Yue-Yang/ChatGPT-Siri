@@ -51,6 +51,26 @@
 - [简体中文版](https://www.icloud.com/shortcuts/e79548cd118e45b6a7ad124c891c4ac0)
 - [English Version](https://www.icloud.com/shortcuts/a0e7e6f919de42ce83ffd2af38f653c7)
 
+### 智能聊天 1.2.3
+
+功能和1.2.2相同，增加：
+1. 选择模型功能，支持gpt-4；
+2. 自动复制最后一次回复到剪贴板；
+3. 聊天记录按天分不同文件夹保存；
+4. 添加回默认系统消息。
+
+> gpt-4 目前需要加入waitlist，加入后会收到确认加入waitlist邮件。然后需要等待邀请你使用 gpt-4 api 的确认邮件，拿到资格后，在 playground 后台可以看到，能选择 gpt-4模型进行测试。没有 gpt-4 资格请选择使用 gpt-3.5-turbo 模型。
+
+- gpt-4 api waitlist: https://openai.com/waitlist/gpt-4-api
+- playground：https://platform.openai.com/playground?mode=chat
+
+<div align="center">
+<img width="500" src="img/playground-gpt-4.jpg" />
+</div>
+
+- [简体中文版](https://www.icloud.com/shortcuts/900b456d30cb48e2b8423efd455b6457)
+- [English Version](https://www.icloud.com/shortcuts/4bc189c3ec344121991ab9d3c98b5533)
+
 # 常见问题
 
 > 注意：国内已经不能访问 api 了，需要开代理！查看「连接问题」「找不到key」：https://github.com/Yue-Yang/ChatGPT-Siri/discussions/29
