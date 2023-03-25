@@ -2,6 +2,21 @@
 
 通过 Siri 启动「快捷指令」连接 ChatGPT API，让 Siri 变身 AI 聊天助手。你可以直接和 Siri 说出你的问题，Siri 会回答你。现在我们的 Siri 终于变得智能了，可以和我们对答如流！而这一切只需要一个快捷指令和 API key 就可以做到了。
 
+# 准备工作
+
+- 确保网络能正常访问 https://api.openai.com 域名
+- 确保 API 帐户有足够余额：https://platform.openai.com/account/usage
+- 使用 Siri 启动快捷指令，打开设置-》Siri 回答-〉自动。钩上“始终显示你对Siri说的话”，可以方便查看识别是否精准。确保 Siri 的语言设置和你使用的语言一致。
+- 1.2 及以上版本，需要打开「设置」- Apple ID - iCloud - iCloud 云盘 功能，才能使用保存到 txt 文件功能。
+
+## 其他相关问题
+
+- 如何安全使用API key（英文）：https://help.openai.com/en/articles/5112595-best-practices-for-api-key-safety
+- API keys: https://platform.openai.com/account/api-keys
+- API 用量: https://platform.openai.com/account/usage
+- API 价格: https://openai.com/pricing
+- ChatGPT API 常见问题: https://help.openai.com/en/articles/7039783-chatgpt-api-faq
+
 # 快捷指令下载
 
 点击下面链接下载快捷指令，支持 iPhone、iPad、Mac、HomePod、CarPlay。
