@@ -74,6 +74,16 @@
 3. 聊天记录按天分不同文件夹保存；
 4. 添加回默认系统消息。
 
+- [简体中文版](https://www.icloud.com/shortcuts/900b456d30cb48e2b8423efd455b6457)
+- [English Version](https://www.icloud.com/shortcuts/4bc189c3ec344121991ab9d3c98b5533)
+
+### 智能聊天 1.2.4
+
+功能和 1.2.3 相同，修复不同语言系统聊天记录目录可能出现 bug。
+
+- [简体中文版](https://www.icloud.com/shortcuts/f0328cf2683b4b7b99c488866d220115)
+- [English Version](https://www.icloud.com/shortcuts/5590188f4e2541fba4da79b425be6db2)
+
 > gpt-4 目前需要加入waitlist，加入后会收到确认加入waitlist邮件。然后需要等待邀请你使用 gpt-4 api 的确认邮件，拿到资格后，在 playground 后台可以看到，能选择 gpt-4模型进行测试。没有 gpt-4 资格请选择使用 gpt-3.5-turbo 模型。
 
 - gpt-4 api waitlist: https://openai.com/waitlist/gpt-4-api
@@ -82,16 +92,6 @@
 <div align="center">
 <img width="500" src="img/playground-gpt-4.jpg" />
 </div>
-
-- [简体中文版](https://www.icloud.com/shortcuts/900b456d30cb48e2b8423efd455b6457) (不推荐，请下载1.2.4)
-- [English Version](https://www.icloud.com/shortcuts/4bc189c3ec344121991ab9d3c98b5533) (不推荐，请下载1.2.4)
-
-### 智能聊天 1.2.4
-
-功能和 1.2.3 相同，修复不同语言系统聊天记录目录可能出现 bug。
-
-- [简体中文版](https://www.icloud.com/shortcuts/f0328cf2683b4b7b99c488866d220115)
-- [English Version](https://www.icloud.com/shortcuts/5590188f4e2541fba4da79b425be6db2)
 
 # 常见问题
 
@@ -136,11 +136,21 @@
 
 ## 自定义名字、图标及提示信息
 
-| 修改名字、图标 | 修改欢迎、继续提示 |
+自定义名字和图标
+
+- img1: 修改名字、图标
+- img2: 修改欢迎、继续提示
+
+| img1 | img2 |
 | :-------------: |:-------------:|
 | <img width="200" src="img/IMG_rename-icon-cn.png" /> | <img width="200" src="img/IMG_welcome-continue-cn.png" /> |
 
-| 修改退出聊天命令、退出提示 | 修改新聊天命令、新聊天欢迎 |
+自定义提示语
+
+- img1: 修改退出聊天命令、退出提示
+- img2: 修改新聊天命令、新聊天欢迎
+
+| img1 | img2 |
 | :-------------: |:-------------:|
 | <img width="200" src="img/IMG_quit-chat-cn.png" /> | <img width="200" src="img/IMG_new-chat-cn.png" /> |
 
@@ -148,7 +158,7 @@
 
 你也可以自定义系统消息，系统消息有助于设置助手的行为。在本「快捷指令」系统消息是使用的 ChatGPT 的默认系统消息之一：
 
-> 你是 ChatGPT，是由 OpenAI 训练的大型语言模型。请尽可能简洁地回答问题。知识截止日期为：2021年9月，当前日期为：Current Date。
+> 你是 ChatGPT，是由 OpenAI 训练的大型语言模型。请尽可能简洁地回答问题。知识截止日期为：2021年9月。
 
 修改方法，编辑「快捷指令」，往下滑，找到如图所示位置：
 
@@ -186,7 +196,7 @@
 ## 微信群交流
 
 <div align="center">
-<img width="240" src="img/wx-group4.jpg" />
+<img width="240" src="img/wx-group5.jpg" />
 </div>
 
 # 请作者喝一杯奶茶🥤

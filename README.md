@@ -76,6 +76,16 @@ The function is same as 1.2.2, with the following additions:
 3. Save chat records in different folders by day;
 4. Add back the default system message.
 
+- [简体中文版](https://www.icloud.com/shortcuts/900b456d30cb48e2b8423efd455b6457)
+- [English Version](https://www.icloud.com/shortcuts/4bc189c3ec344121991ab9d3c98b5533)
+
+### ChatGPT Siri 1.2.4
+
+The function is the same as 1.2.3, with a bug fix for potential issues with chats record directories in different language systems.
+
+- [简体中文版](https://www.icloud.com/shortcuts/f0328cf2683b4b7b99c488866d220115)
+- [English Version](https://www.icloud.com/shortcuts/5590188f4e2541fba4da79b425be6db2)
+
 > Currently, GPT-4 requires joining a waitlist. Once you join the waitlist, you will receive a confirmation email. Then, you need to wait for the invitation to use the GPT-4 API, and after you have qualified, you can see the GPT-4 model option for testing in the playground backend. If you do not have GPT-4 qualifications, please choose to use the GPT-3.5-Turbo model. 
 
 - gpt-4 api waitlist: https://openai.com/waitlist/gpt-4-api
@@ -84,16 +94,6 @@ The function is same as 1.2.2, with the following additions:
 <div align="center">
 <img width="500" src="img/playground-gpt-4.jpg" />
 </div>
-
-- [简体中文版](https://www.icloud.com/shortcuts/900b456d30cb48e2b8423efd455b6457) (Not recommended, please download 1.2.4) 
-- [English Version](https://www.icloud.com/shortcuts/4bc189c3ec344121991ab9d3c98b5533) (Not recommended, please download 1.2.4)
-
-### ChatGPT Siri 1.2.4
-
-The function is the same as 1.2.3, with a bug fix for potential issues with chats record directories in different language systems.
-
-- [简体中文版](https://www.icloud.com/shortcuts/f0328cf2683b4b7b99c488866d220115)
-- [English Version](https://www.icloud.com/shortcuts/5590188f4e2541fba4da79b425be6db2)
 
 # API key acquisition
 
@@ -135,11 +135,19 @@ This shortcut supports iPhone, iPad and Mac, supports continuous conversations, 
 
 ## Customize name, icon and hint messages.
 
-| Rename and choose icon | Welcome and continue hints |
+- img1: Rename and choose icon
+- img2: Welcome and continue hints
+
+| img1 | img2 |
 | :-------------: |:-------------:|
 | <img width="200" src="img/IMG_rename-icon.png" /> | <img width="200" src="img/IMG_welcome-continue.png" /> |
 
-| Quit chat command, quit chat hint | new chat command, new chat welcome hint |
+Customize hint messages.
+
+- img1: Quit chat command, quit chat hint
+- img2: New chat command, new chat welcome hint
+
+| img1 | img2 |
 | :-------------: |:-------------:|
 | <img width="200" src="img/IMG_quit-chat.png" /> | <img width="200" src="img/IMG_new-chat.png" /> |
 
@@ -147,7 +155,7 @@ This shortcut supports iPhone, iPad and Mac, supports continuous conversations, 
 
 You can also customize system message, which help set the behavior of the assistant. In this "shortcut" system message is one of the default system messages of ChatGPT used:
 
-> You are ChatGPT, a large language model trained by OpenAI. Answer as concisely as possible. Knowledge cutoff: {knowledge_cutoff} Current date: {current_date}
+> You are ChatGPT, a large language model trained by OpenAI. Answer as concisely as possible. Knowledge cutoff: Sep 2021.
 
 Modify method, edit the "shortcut", slide down, and find the position as shown in the figure:
 
