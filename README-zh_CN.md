@@ -84,6 +84,16 @@
 - [简体中文版](https://www.icloud.com/shortcuts/f0328cf2683b4b7b99c488866d220115)
 - [English Version](https://www.icloud.com/shortcuts/5590188f4e2541fba4da79b425be6db2)
 
+### 智能聊天 1.2.5
+
+功能和 1.2.4 相同，修改：
+
+1. 增加找不到 choices 错误提示
+2. 去除聊天记录文件名中的 : ，以避免一些潜在目录错误问题
+
+- [简体中文版](https://www.icloud.com/shortcuts/6432aa1a95664d76aeb5f8d0b4a1060e)
+- [English Version](https://www.icloud.com/shortcuts/140764f9174c408c83fc348db74a4e8a)
+
 > gpt-4 目前需要加入waitlist，加入后会收到确认加入waitlist邮件。然后需要等待邀请你使用 gpt-4 api 的确认邮件，拿到资格后，在 playground 后台可以看到，能选择 gpt-4模型进行测试。没有 gpt-4 资格请选择使用 gpt-3.5-turbo 模型。
 
 - gpt-4 api waitlist: https://openai.com/waitlist/gpt-4-api

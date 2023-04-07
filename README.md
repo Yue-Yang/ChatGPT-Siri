@@ -86,6 +86,16 @@ The function is the same as 1.2.3, with a bug fix for potential issues with chat
 - [简体中文版](https://www.icloud.com/shortcuts/f0328cf2683b4b7b99c488866d220115)
 - [English Version](https://www.icloud.com/shortcuts/5590188f4e2541fba4da79b425be6db2)
 
+### ChatGPT Siri 1.2.5
+
+The function is the same as 1.2.4, with the following modifications:
+
+1. Added error message for not finding choices.
+2. Removed colon from chat log file name to avoid potential directory issues.
+
+- [简体中文版](https://www.icloud.com/shortcuts/6432aa1a95664d76aeb5f8d0b4a1060e)
+- [English Version](https://www.icloud.com/shortcuts/140764f9174c408c83fc348db74a4e8a)
+
 > Currently, GPT-4 requires joining a waitlist. Once you join the waitlist, you will receive a confirmation email. Then, you need to wait for the invitation to use the GPT-4 API, and after you have qualified, you can see the GPT-4 model option for testing in the playground backend. If you do not have GPT-4 qualifications, please choose to use the GPT-3.5-Turbo model. 
 
 - gpt-4 api waitlist: https://openai.com/waitlist/gpt-4-api
