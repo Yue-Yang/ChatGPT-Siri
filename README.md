@@ -125,7 +125,7 @@ Open the "Shortcuts" app, find the downloaded "ChatGPT" shortcut, press and hold
 <img width="500" src="img/replace-api-key.png" />
 </div>
 
-# How to use
+# How to use it
 
 Start the "shortcut" with Siri, just say "Hey, Siri, ChatGPT", and then you can start chatting with Siri, our Siri has become very smart, enjoy! 🎉
 
