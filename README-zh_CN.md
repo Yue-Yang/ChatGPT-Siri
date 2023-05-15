@@ -209,7 +209,7 @@
 <img width="240" src="img/wx-group5.jpg" />
 </div>
 
-# 请作者喝一杯奶茶🥤
+# 请作者喝一杯咖啡 ☕️
 
 <div align="center">
 <img width="240" src="img/support-wx-zan.jpg" />
