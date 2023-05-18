@@ -197,8 +197,9 @@ Automatically save images to the photo album.
 
 # Contact
 
-- Discord: <a href="https://discord.gg/r28WhZUtK8" target="_blank">ChatGPT Siri</a>
+- Discord: <a href="https://discord.gg/r28WhZUtK8" target="_blank">YueYang Studios</a>
 - Twitter: <a href="https://twitter.com/YueYangDev" target="_blank">@YueYangDev</a>
+- Weibo: <a href="https://weibo.com/u/1747186121" target="_blank">@乐阳YueYang</a>
 
 # FAQ
 
