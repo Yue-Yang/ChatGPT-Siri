@@ -96,14 +96,32 @@ The function is the same as 1.2.4, with the following modifications:
 - [简体中文版](https://www.icloud.com/shortcuts/e663292993114a5ba1876023adb5f691)
 - [English Version](https://www.icloud.com/shortcuts/e49118e4243e49cbbd29750b1b741a25)
 
-> Currently, GPT-4 requires joining a waitlist. Once you join the waitlist, you will receive a confirmation email. Then, you need to wait for the invitation to use the GPT-4 API, and after you have qualified, you can see the GPT-4 model option for testing in the playground backend. If you do not have GPT-4 qualifications, please choose to use the GPT-3.5-Turbo model. 
+---
 
-- gpt-4 api waitlist: https://openai.com/waitlist/gpt-4-api
-- playground：https://platform.openai.com/playground?mode=chat
+## ChatGPT Siri 1.3
 
-<div align="center">
-<img width="500" src="img/playground-gpt-4.jpg" />
-</div>
+The model has been upgraded to gpt-5.2, and support has been added for configuring a custom OpenAI-compatible API URL.
+
+> Note: Shortcuts do not support version management, so I added a version number to the name to distinguish it. If you want to launch this shortcut using voice, please rename it to remove the version number. You may also rename it to something you prefer and that is easier for voice recognition to detect.
+
+#### Custom URL Example:
+
+> The custom URL, model, and API key must all match — make sure they correspond to the same service provider. If you copy and paste, ensure that your URL, model name, and API key contain no extra spaces, line breaks, or hidden characters. They must match exactly to avoid request errors.
+
+1️⃣ Default OpenAI URL：`https://api.openai.com/v1/chat/completions`，model：`gpt-5.2`,`gpt-5`,`gpt-5-mini`,`gpt-5-nano`,`gpt-4o`etc, model list：https://developers.openai.com/api/docs/pricing#text-tokens
+
+2️⃣ DeepSeek URL：`https://api.deepseek.com/v1/chat/completions`, model：`deepseek-chat`etc。
+
+3️⃣ OpenRouter URL：`https://openrouter.ai/api/v1/chat/completions`, model：`openai/gpt-5.2`, `openai/gpt-4o-mini`, `openrouter/auto`, `openrouter/free`etc。model list：https://openrouter.ai/models
+
+4️⃣ Other OpenAI-compatible URLs should also work.
+
+### 1.3 Shortcut — click the link to download
+
+- 简体中文版：https://www.icloud.com/shortcuts/0465fa980ced4af5a59a187611b6ab61
+- English Version：https://www.icloud.com/shortcuts/81312794bfd340f5b9b07c6449b9b1aa
+
+---
 
 # API key acquisition
 

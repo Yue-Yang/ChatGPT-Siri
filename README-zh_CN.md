@@ -128,10 +128,12 @@
 
 3️⃣ OpenOpenRouter URL：`https://openrouter.ai/api/v1/chat/completions`, 模型：`openai/gpt-5.2`, `openai/gpt-4o-mini`, `openrouter/auto`, `openrouter/free`等。模型列表：https://openrouter.ai/models
 
+4️⃣ 其他和 OpenAI 兼容的 url 应该都可以，大家可以自行添加。
+
 ### 1.3 快捷指令，点击链接下载
 
 - 简体中文版：https://www.icloud.com/shortcuts/0465fa980ced4af5a59a187611b6ab61
-- English Version：coming soon...
+- English Version：https://www.icloud.com/shortcuts/81312794bfd340f5b9b07c6449b9b1aa
 
 ---
 
