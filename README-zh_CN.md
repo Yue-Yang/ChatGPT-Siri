@@ -28,6 +28,8 @@
 - [简体中文版](https://www.icloud.com/shortcuts/620e11d10bc4419497c0fd323e3fe8f1)
 - [English Version](https://www.icloud.com/shortcuts/4535286f97384f839439a865faacb9d2)
 
+---
+
 ## 智能聊天 1.1
 
 > 推荐安装1.2版本，更详细聊天记录，保存到txt文件更方便管理。
@@ -38,6 +40,8 @@
 
 - [简体中文版](https://www.icloud.com/shortcuts/b7c3c9939c2c43598caa1efcb3dad954)
 - [English Version](https://www.icloud.com/shortcuts/e288497f0de742fdb076195afd3bef86)
+
+---
 
 ## 智能聊天 1.2
 
@@ -52,6 +56,8 @@
 - [简体中文版](https://www.icloud.com/shortcuts/00838176f7f342008d5a921e8450a98d)
 - [English Version](https://www.icloud.com/shortcuts/dfa38b2abb58470380086dc4b5d50143)
 
+---
+
 ### 智能聊天 1.2.1
 
 功能和1.2相同，另外支持在iPad、iPhone通过共享表单分享文本到快捷指令，Mac上通过快速操作发送文本到快捷指令，以快速启动快捷指令。
@@ -59,12 +65,16 @@
 - [简体中文版](https://www.icloud.com/shortcuts/592b5aad9b334363b0ee52d8a63f2e72)
 - [English Version](https://www.icloud.com/shortcuts/ed96bcaa8f62475eaf3b5c571606ec32)
 
+---
+
 ### 智能聊天 1.2.2
 
 功能和1.2.1相同，修改新聊天bug。
 
 - [简体中文版](https://www.icloud.com/shortcuts/e79548cd118e45b6a7ad124c891c4ac0)
 - [English Version](https://www.icloud.com/shortcuts/a0e7e6f919de42ce83ffd2af38f653c7)
+
+---
 
 ### 智能聊天 1.2.3
 
@@ -77,12 +87,16 @@
 - [简体中文版](https://www.icloud.com/shortcuts/900b456d30cb48e2b8423efd455b6457)
 - [English Version](https://www.icloud.com/shortcuts/4bc189c3ec344121991ab9d3c98b5533)
 
+---
+
 ### 智能聊天 1.2.4
 
 功能和 1.2.3 相同，修复不同语言系统聊天记录目录可能出现 bug。
 
 - [简体中文版](https://www.icloud.com/shortcuts/f0328cf2683b4b7b99c488866d220115)
 - [English Version](https://www.icloud.com/shortcuts/5590188f4e2541fba4da79b425be6db2)
+
+---
 
 ### 智能聊天 1.2.5
 
@@ -94,14 +108,32 @@
 - [简体中文版](https://www.icloud.com/shortcuts/e663292993114a5ba1876023adb5f691)
 - [English Version](https://www.icloud.com/shortcuts/e49118e4243e49cbbd29750b1b741a25)
 
-> gpt-4 目前需要加入waitlist，加入后会收到确认加入waitlist邮件。然后需要等待邀请你使用 gpt-4 api 的确认邮件，拿到资格后，在 playground 后台可以看到，能选择 gpt-4模型进行测试。没有 gpt-4 资格请选择使用 gpt-3.5-turbo 模型。
+---
 
-- gpt-4 api waitlist: https://openai.com/waitlist/gpt-4-api
-- playground：https://platform.openai.com/playground?mode=chat
+## 智能聊天 1.3
 
-<div align="center">
-<img width="500" src="img/playground-gpt-4.jpg" />
-</div>
+模型更新到 gpt-5.2，增加自定义 OpenAI 格式 API url 设置：
+
+> 请注意：快捷指令并没有版本管理，所以我在名字后面加上版本以示区分，如果你希望用语音启动该快捷指令，请修改快捷指令的名字，去掉版本号。也可以更改为你喜欢并且易于成功识别的名字。
+
+#### 自定义 URL 示例：
+
+> 自定义 URL 和模型，API key 必须都匹配才行，请对应修改为同一个服务商的参数。如果你复制的话，粘贴时，请确保你的 URL 和模型名字，API key，没有多余的空格，换行等，要完全匹配以免调用出错。
+
+
+
+1️⃣ 默认 OpenAI URL：`https://api.openai.com/v1/chat/completions`，模型：`gpt-5.2`,`gpt-5`,`gpt-5-mini`,`gpt-5-nano`,`gpt-4o`等, 模型价格列表：https://developers.openai.com/api/docs/pricing#text-tokens
+
+2️⃣ DeepSeek URL：`https://api.deepseek.com/v1/chat/completions`, 模型：`deepseek-chat`等。
+
+3️⃣ OpenOpenRouter URL：`https://openrouter.ai/api/v1/chat/completions`, 模型：`openai/gpt-5.2`, `openai/gpt-4o-mini`, `openrouter/auto`, `openrouter/free`等。模型列表：https://openrouter.ai/models
+
+### 1.3 快捷指令，点击链接下载
+
+- 简体中文版：https://www.icloud.com/shortcuts/0465fa980ced4af5a59a187611b6ab61
+- English Version：coming soon...
+
+---
 
 # 常见问题
 
