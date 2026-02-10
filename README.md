@@ -108,11 +108,11 @@ The model has been upgraded to gpt-5.2, and support has been added for configuri
 
 > The custom URL, model, and API key must all match — make sure they correspond to the same service provider. If you copy and paste, ensure that your URL, model name, and API key contain no extra spaces, line breaks, or hidden characters. They must match exactly to avoid request errors.
 
-1️⃣ Default OpenAI URL：`https://api.openai.com/v1/chat/completions`，model：`gpt-5.2`,`gpt-5`,`gpt-5-mini`,`gpt-5-nano`,`gpt-4o`etc, model list：https://developers.openai.com/api/docs/pricing#text-tokens
+1️⃣ Default OpenAI URL：`https://api.openai.com/v1/chat/completions`，model：`gpt-5.2`,`gpt-5`,`gpt-5-mini`,`gpt-5-nano`,`gpt-4o`etc, model list：https://developers.openai.com/api/docs/pricing#text-tokens; api key: https://platform.openai.com/api-keys
 
-2️⃣ DeepSeek URL：`https://api.deepseek.com/v1/chat/completions`, model：`deepseek-chat`etc。
+2️⃣ DeepSeek URL：`https://api.deepseek.com/v1/chat/completions`, model：`deepseek-chat`etc. api key: https://platform.deepseek.com/api_keys
 
-3️⃣ OpenRouter URL：`https://openrouter.ai/api/v1/chat/completions`, model：`openai/gpt-5.2`, `openai/gpt-4o-mini`, `openrouter/auto`, `openrouter/free`etc。model list：https://openrouter.ai/models
+3️⃣ OpenRouter URL：`https://openrouter.ai/api/v1/chat/completions`, model：`openai/gpt-5.2`, `openai/gpt-4o-mini`, `openrouter/auto`, `openrouter/free`etc. model list：https://openrouter.ai/models; api key: https://openrouter.ai/settings/keys
 
 4️⃣ Other OpenAI-compatible URLs should also work.
 

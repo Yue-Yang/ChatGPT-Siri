@@ -122,11 +122,11 @@
 
 
 
-1️⃣ 默认 OpenAI URL：`https://api.openai.com/v1/chat/completions`，模型：`gpt-5.2`,`gpt-5`,`gpt-5-mini`,`gpt-5-nano`,`gpt-4o`等, 模型价格列表：https://developers.openai.com/api/docs/pricing#text-tokens
+1️⃣ 默认 OpenAI URL：`https://api.openai.com/v1/chat/completions`，模型：`gpt-5.2`,`gpt-5`,`gpt-5-mini`,`gpt-5-nano`,`gpt-4o`等, 模型价格列表：https://developers.openai.com/api/docs/pricing#text-tokens; api key: https://platform.openai.com/api-keys
 
-2️⃣ DeepSeek URL：`https://api.deepseek.com/v1/chat/completions`, 模型：`deepseek-chat`等。
+2️⃣ DeepSeek URL：`https://api.deepseek.com/v1/chat/completions`, 模型：`deepseek-chat`等。api key: https://platform.deepseek.com/api_keys
 
-3️⃣ OpenOpenRouter URL：`https://openrouter.ai/api/v1/chat/completions`, 模型：`openai/gpt-5.2`, `openai/gpt-4o-mini`, `openrouter/auto`, `openrouter/free`等。模型列表：https://openrouter.ai/models
+3️⃣ OpenOpenRouter URL：`https://openrouter.ai/api/v1/chat/completions`, 模型：`openai/gpt-5.2`, `openai/gpt-4o-mini`, `openrouter/auto`, `openrouter/free`等。模型列表：https://openrouter.ai/models; api key: https://openrouter.ai/settings/keys
 
 4️⃣ 其他和 OpenAI 兼容的 url 应该都可以，大家可以自行添加。
 
@@ -134,6 +134,25 @@
 
 - 简体中文版：https://www.icloud.com/shortcuts/0465fa980ced4af5a59a187611b6ab61
 - English Version：https://www.icloud.com/shortcuts/81312794bfd340f5b9b07c6449b9b1aa
+
+---
+
+# 联系
+
+- Discord: <a href="https://discord.gg/r28WhZUtK8" target="_blank">YueYang Studios</a>
+- X: <a href="https://twitter.com/YueYangDev" target="_blank">@YueYangDev</a>
+
+## 微信群交流
+
+<div align="center">
+<img width="240" src="img/wx-group5.jpg" />
+</div>
+
+# 请作者喝一杯咖啡 ☕️
+
+<div align="center">
+<img width="240" src="img/support-wx-zan.jpg" />
+</div>
 
 ---
 
@@ -231,26 +250,6 @@
 
 - [简体中文版](https://www.icloud.com/shortcuts/82865070e10f4e79a021064518f77ca9)
 - [English Version](https://www.icloud.com/shortcuts/6f8299a858184900b7ab2a4dbf048623)
-
-# 联系
-
-- Discord: <a href="https://discord.gg/r28WhZUtK8" target="_blank">YueYang Studios</a>
-- Twitter: <a href="https://twitter.com/YueYangDev" target="_blank">@YueYangDev</a>
-- 微博: <a href="https://weibo.com/u/1747186121" target="_blank">@乐阳YueYang</a>
-
-## 微信群交流
-
-<div align="center">
-<img width="240" src="img/wx-group5.jpg" />
-</div>
-
-# 请作者喝一杯咖啡 ☕️
-
-<div align="center">
-<img width="240" src="img/support-wx-zan.jpg" />
-</div>
-
-# 👉 [🔋爱发电首页](https://afdian.net/a/YueYangDev)
 
 # 星标历史记录
 
