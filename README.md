@@ -104,7 +104,7 @@ The model has been upgraded to gpt-5.2, and support has been added for configuri
 
 > Note: Shortcuts do not support version management, so I added a version number to the name to distinguish it. If you want to launch this shortcut using voice, please rename it to remove the version number. You may also rename it to something you prefer and that is easier for voice recognition to detect.
 
-#### Custom URL Example:
+Custom URL Example:
 
 > The custom URL, model, and API key must all match — make sure they correspond to the same service provider. If you copy and paste, ensure that your URL, model name, and API key contain no extra spaces, line breaks, or hidden characters. They must match exactly to avoid request errors.
 
@@ -116,10 +116,24 @@ The model has been upgraded to gpt-5.2, and support has been added for configuri
 
 4️⃣ Other OpenAI-compatible URLs should also work.
 
-### 1.3 Shortcut — click the link to download
+Download link:
 
 - 简体中文版：https://www.icloud.com/shortcuts/0465fa980ced4af5a59a187611b6ab61
 - English Version：https://www.icloud.com/shortcuts/81312794bfd340f5b9b07c6449b9b1aa
+
+---
+
+### ChatGPT Siri 1.3.1
+
+The features are the same as version 1.3.
+
+- Fixed a bug where using the latest OpenAI models caused errors [#170](https://github.com/Yue-Yang/ChatGPT-Siri/issues/170)
+- Added: The “new chat” and “quit chat” commands now support matching multiple keywords. (The command will be triggered successfully if any one of the keywords is included.)
+
+Download links:
+
+- 简体中文版: 
+- English Version: 
 
 ---
 

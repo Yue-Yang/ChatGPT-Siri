@@ -116,24 +116,36 @@
 
 > 请注意：快捷指令并没有版本管理，所以我在名字后面加上版本以示区分，如果你希望用语音启动该快捷指令，请修改快捷指令的名字，去掉版本号。也可以更改为你喜欢并且易于成功识别的名字。
 
-#### 自定义 URL 示例：
+自定义 URL 示例：
 
 > 自定义 URL 和模型，API key 必须都匹配才行，请对应修改为同一个服务商的参数。如果你复制的话，粘贴时，请确保你的 URL 和模型名字，API key，没有多余的空格，换行等，要完全匹配以免调用出错。
-
-
 
 1️⃣ 默认 OpenAI URL：`https://api.openai.com/v1/chat/completions`，模型：`gpt-5.2`,`gpt-5`,`gpt-5-mini`,`gpt-5-nano`,`gpt-4o`等, 模型价格列表：https://developers.openai.com/api/docs/pricing#text-tokens; api key: https://platform.openai.com/api-keys
 
 2️⃣ DeepSeek URL：`https://api.deepseek.com/v1/chat/completions`, 模型：`deepseek-chat`等。api key: https://platform.deepseek.com/api_keys
 
-3️⃣ OpenOpenRouter URL：`https://openrouter.ai/api/v1/chat/completions`, 模型：`openai/gpt-5.2`, `openai/gpt-4o-mini`, `openrouter/auto`, `openrouter/free`等。模型列表：https://openrouter.ai/models; api key: https://openrouter.ai/settings/keys
+3️⃣ OpenRouter URL：`https://openrouter.ai/api/v1/chat/completions`, 模型：`openai/gpt-5.2`, `openai/gpt-4o-mini`, `openrouter/auto`, `openrouter/free`等。模型列表：https://openrouter.ai/models; api key: https://openrouter.ai/settings/keys
 
 4️⃣ 其他和 OpenAI 兼容的 url 应该都可以，大家可以自行添加。
 
-### 1.3 快捷指令，点击链接下载
+下载链接：
 
 - 简体中文版：https://www.icloud.com/shortcuts/0465fa980ced4af5a59a187611b6ab61
 - English Version：https://www.icloud.com/shortcuts/81312794bfd340f5b9b07c6449b9b1aa
+
+---
+
+### 智能聊天 1.3.1
+
+功能和 1.3 相同。
+
+- 修复使用 OpenAI 最新模型报错的 bug [#170](https://github.com/Yue-Yang/ChatGPT-Siri/issues/170)
+- 增加：新聊天、退出聊天命令支持多个关键字匹配。（包含任一关键词就会触发成功）
+
+下载链接：
+
+- 简体中文版：https://www.icloud.com/shortcuts/304a6c3e61a74c2a8ad3ea6a8a66f79c
+- English Version：https://www.icloud.com/shortcuts/22440fa8e635430db21619bd9bc4e299
 
 ---
 
