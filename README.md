@@ -132,8 +132,8 @@ The features are the same as version 1.3.
 
 Download links:
 
-- 简体中文版: 
-- English Version: 
+- 简体中文版：https://www.icloud.com/shortcuts/304a6c3e61a74c2a8ad3ea6a8a66f79c
+- English Version：https://www.icloud.com/shortcuts/22440fa8e635430db21619bd9bc4e299
 
 ---
 
